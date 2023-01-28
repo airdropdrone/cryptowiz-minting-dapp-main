@@ -89,9 +89,3 @@ To do that;
 **Client:** React, TailwindCSS, web3.js
 
 **Server:** Alchemy, NextJS, Hardhat
-
-## Support
-
-Write me on mnz3553@gmail.com
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mnz3553Q)
